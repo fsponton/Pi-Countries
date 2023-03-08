@@ -1,0 +1,36 @@
+.formulario {
+    /* background: rgba(0, 0, 0, 0.834); */
+    background: rgba(21, 21, 21, 0.71);
+    border-radius: 10px;
+}
+
+.review {
+    /* padding-left: 5%;
+    padding-right: 3%; */
+}
+
+.btnactivityForm {
+    /* margin-top: 40px !important;
+    margin: 3px;
+    margin-bottom: 20px;
+    background: black;
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+    border-style: ridge !important;
+    border-width: 2px !important; */
+}
+
+.btnactivityForm:hover {
+    /* background: white;
+    color: black; */
+}
+
+
+.formulario select {
+    font-size: 14px !important;
+}
+
+.form-select .option {
+    font-size: 50px !important;
+}

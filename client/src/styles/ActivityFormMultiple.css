@@ -1,0 +1,110 @@
+.formulario {
+    /* margin-top: 2%; */
+    /* display: flex;
+    flex-direction: column;
+    align-items: center; */
+}
+
+.formm {
+    /* width: 45%;
+    padding: 0.5%;
+    border: solid;
+    border-width: thin;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 50px; */
+}
+
+.formulario p {
+    /* color: white; */
+}
+
+.formulario input {
+    /* margin-left: 1%;
+    background: black;
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+    text-align: center; */
+}
+
+.formulario select {
+    /* margin-left: 1%;
+    background: black;
+    font-size: 30px;
+    font-weight: 500;
+    color: white;
+    text-align: center; */
+}
+
+.createActivity {
+    /* 
+    font-size: 30px;
+    color: #e6f3ff;
+    font-weight: 500; */
+}
+
+/* .arrCountriesToCreate {
+    background: black;
+} */
+
+.arrCountriesToCreate button {
+    /* display: flex;
+    flex-direction: row;
+    color: black;
+    justify-content: center; */
+    margin-left: 10px;
+    background: yellow;
+    color: black;
+}
+
+.arrCountriesToCreate button:hover {
+    background-color: black;
+    color: yellow;
+    border-color: black;
+}
+
+/* 
+.arrCountriesToCreate p {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: white;
+} */
+
+
+/* .addActivity {
+    background: black;
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+    border-style: ridge !important;
+    border-width: 2px !important;
+} */
+
+.space {
+    background: black;
+}
+
+
+/* .addActivity:hover {
+    background: white;
+    color: black;
+} */
+
+h2 {
+    font-size: 30px;
+    color: white;
+}
+
+.box {
+    /* overflow: auto; */
+    margin-top: 10px;
+    background: rgba(8, 34, 3, 0.78);
+    padding: 1%;
+    /* border: solid; */
+    /* border-color: white; */
+    /* border-width: 2px; */
+    /* margin-bottom: 10px;
+    border-radius: 50px; */
+}

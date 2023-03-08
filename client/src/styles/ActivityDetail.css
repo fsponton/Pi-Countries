@@ -1,0 +1,47 @@
+.activityDetail {
+    background: rgba(21, 21, 21, 0.71);
+    margin-top: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    /* color: #fff; */
+    /* display: flex;
+    flex: row;
+    justify-content: center;
+    align-items: center; */
+}
+
+.activityDetail .span {
+    margin-left: 100x;
+    color: #e6f3ff;
+    font-size: 18px;
+    border-bottom-width: thin;
+    border-bottom-style: solid;
+    border-bottom-color: rgb(202, 202, 202);
+}
+
+
+
+.mini {
+    font-size: 15px;
+}
+
+
+.activityDetail p {
+    color: #e6f3ff;
+}
+
+Link {
+    background: red;
+}
+
+.delete {
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.review {
+    color: #e6f3ff;
+    font-size: 15px;
+    max-width: 1100px;
+    width: 100%;
+}

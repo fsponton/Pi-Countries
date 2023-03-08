@@ -1,0 +1,10 @@
+.countries img {
+    border-radius: 5%;
+    max-width: 150px;
+    max-height: 90px;
+}
+
+.noCountries {
+    color: black;
+    background-color: white;
+}

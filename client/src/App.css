@@ -1,0 +1,29 @@
+.left {
+  /* background: rgba(22, 36, 66, 0.95); */
+  border-right: 1px solid white;
+}
+
+/* 
+.right {
+ 
+  background: rgba(22, 36, 66, 0.95)
+} */
+
+.APP {
+  background: rgba(22, 36, 66, 0.95);
+  padding-bottom: 20px;
+  width: 1320px !important;
+}
+
+.top {
+  border-top: 1px solid #fff;
+}
+
+h1 {
+  margin: 0px;
+  padding: 0px;
+  font-size: 25px;
+  /* color: rgb(244, 217, 128); */
+  color: gold;
+  /* background: black; */
+}

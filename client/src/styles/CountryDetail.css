@@ -1,0 +1,41 @@
+/* .countryDetail {
+    background: black;
+} */
+
+
+.infoCountry {
+    margin-top: 6%;
+
+}
+
+.description {
+    margin-top: 7%;
+}
+
+.title {
+    border-bottom: 1px solid #a9d4fb;
+    border-bottom-style: solid;
+    /* border-bottom-color: rgb(202, 202, 202); */
+    color: #e6f3ff;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+
+p {
+    font-size: 18px;
+    font-weight: 500;
+    color: #e6f3ff;
+}
+
+#titleTourist {
+    font-size: 30px;
+    color: #e6f3ff;
+    font-weight: 500;
+
+}
+
+/* 
+.activity {
+    border-left: 1px solid #fff;
+} */

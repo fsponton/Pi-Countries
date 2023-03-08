@@ -1,0 +1,15 @@
+.btnPage {
+    margin: 1px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-radius: 30%;
+}
+
+.btnActive {
+    background: #e6f3ff;
+}
+
+.btnPage:hover {
+    background: #fff;
+    color: #000;
+}
